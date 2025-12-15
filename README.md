@@ -1,15 +1,18 @@
 # Python-Practice
-Coding Practice
+**Coding Practice & Learning Journey**
 
-This repository contains my coding practice and learning journey.
-I will be adding programs, examples, and small projects as I learn new things.
+This repository contains my Python learning projects, practice scripts, and experiments.  
+I will be adding programs, examples, and small projects as I learn new concepts.
 
-Purpose
+## Purpose
 - Practice coding concepts
 - Build consistency
 - Track my progress
 
-Tech
-- Programming languages and tools will be added over time.
+## Tech
+- Programming language: **Python**  
+- Tools and other languages may be added over time
 
-
+## Notes
+- This repository contains **only Python projects**
+- Author: Aryan Dixit
