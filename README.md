@@ -11,7 +11,6 @@ I will be adding programs, examples, and small projects as I learn new concepts.
 
 ## Tech
 - Programming language: **Python**  
-- Tools and other languages may be added over time
 
 ## Projects Included
 
