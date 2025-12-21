@@ -39,6 +39,18 @@ I will be adding programs, examples, and small projects as I learn new concepts.
 ### 6. To-Do List (with File Handling)
 - Add, view, and delete tasks
 - Tasks saved in a text file
+- 
+### 7.Text File Handling
+-Read and write data using .txt files
+-Used for simple data storage like tasks, notes, and logs
+
+### 8.CSV File Handling
+-Store and retrieve structured data in tabular form
+-Useful for records like student details and marks
+
+### 9.Binary File Handling
+-Store Python objects in binary format
+-Implemented using the pickle module for secure data storage
 
 ## Tech Used
 - Python
