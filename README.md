@@ -2,17 +2,24 @@
 **Coding Practice & Learning Journey**
 
 This repository contains my Python learning projects, practice scripts, and experiments.  
-I will be adding programs, examples, and small projects as I learn new concepts.
+I add programs regularly as I learn new concepts and improve my coding skills.
 
-## Purpose
-- Practice coding concepts
-- Build consistency
-- Track my progress
+---
 
-## Tech
-- Programming language: **Python**  
+## 🎯 Purpose
+- Practice Python programming concepts
+- Improve problem-solving skills
+- Build coding consistency
+- Maintain a learning portfolio
 
-## Projects Included
+---
+
+## 🛠️ Tech Stack
+- Programming Language: **Python**
+
+---
+
+## 📂 Projects Included
 
 ### 1. Calculator
 - Basic arithmetic operations
@@ -36,20 +43,33 @@ I will be adding programs, examples, and small projects as I learn new concepts.
 - Difficulty levels (Easy, Medium, Hard)
 - Score system
 
-### 6. To-Do List (with File Handling)
+### 6. To-Do List
 - Add, view, and delete tasks
-- Tasks saved in a text file
-  
+- Tasks stored in a text file
 
-## Tech Used
-- Python
+### 7. Student Record Management System
+- Menu-driven Python application
+- File-based permanent data storage
+- Add, display, search student records
+- Update student marks
+- Delete student record
+- Count total students
+- Show topper based on highest marks
 
-## Purpose
-- Practice Python concepts
-- Improve problem-solving skills
-- Build consistency
+---
 
+## 🚀 Future Improvements
+- Add more Python projects
+- Improve input validation
+- Optimize existing programs
 
-## Notes
+---
+
+## 📝 Notes
 - This repository contains **only Python projects**
-- Author: Aryan Dixit
+- Created for learning and practice purposes
+
+---
+
+## 👨‍💻 Author
+**Aryan Dixit**
