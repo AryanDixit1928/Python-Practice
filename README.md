@@ -75,6 +75,6 @@ I add programs regularly as I learn new concepts and improve my coding skills.
 **Aryan Dixit**  
 Class 12 Student | Python Learner  
 Passionate about building Python projects and improving problem-solving skills. 
-📫 Email: aryan1928dixit@gmail.com
-GitHub: https://github.com/AryanDixit1928
+<br>📫 Email: aryan1928dixit@gmail.com
+<br>GitHub: https://github.com/AryanDixit1928
 
