@@ -71,7 +71,7 @@ I add programs regularly as I learn new concepts and improve my coding skills.
 
 ---
 
-## 👨‍💻 Author
+## 🧑‍💻 Author
 **Aryan Dixit**  
 Class 12 Student | Python Learner  
 Passionate about building Python projects and improving problem-solving skills. 
